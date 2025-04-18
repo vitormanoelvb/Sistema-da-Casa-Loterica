@@ -72,3 +72,14 @@ Projeto orientado pelo professor Henrique Bianor Freitas Silva.
 
 - [@Vitor Manoel Vidal Braz](https://github.com/WAUCLIDSON)
 - [@Wauclidson Alves Dias](https://github.com/WAUCLIDSON)
+
+  ---
+
+###
+
+<div align="center"> 
+  <img src="BANNER%20-%20VEW%20SOLU%C3%87%C3%95ES.png" width="100%" alt="VEW Soluções Banner" />
+</div>
+
+> **@vewsoluções2025**
+
