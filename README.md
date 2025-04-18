@@ -1,4 +1,4 @@
-# 🎰 Sistema da Casa Lotérica 💴
+<h1 align="center">🎰 Sistema da Casa Lotérica 💴</h1>
 
 Projeto prático desenvolvido para simular o funcionamento de uma casa lotérica com quatro caixas, proporcionando uma gestão eficiente de filas e transações financeiras. O sistema foi criado como parte da disciplina de Estrutura de Dados, do curso de Sistemas de Informação da Univale (Universidade Vale do Rio Doce).
 
